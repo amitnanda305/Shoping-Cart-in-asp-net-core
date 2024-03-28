@@ -1,0 +1,96 @@
+﻿@model Mycloth_website.Lists.PaginatedList3<Cart>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie store</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link href="~/css/cart.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="/images/movie_filter_FILL0_wght400_GRAD0_opsz48.svg">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+</head>
+
+<body>
+   
+
+    <div class="cartitems">
+        <div class="cartitems-format-main">
+            <p>Products</p>
+            <p>Title</p>
+            <p>Price</p>
+            <p>Discount Price</p>
+            <p>Remove</p>
+        </div>
+        <hr/> 
+        <div>
+            @{
+                decimal totalCartAmount = 0;
+            }
+             @foreach (var item in Model.Items)
+            {
+            <div class="cartitems-format cartitems-format-main">
+                <img src="~/Assets/@item.ProductImage" alt="" class="carticon-product-icon" />
+                    <p>@item.ProductName</p>
+                    <p>$@item.ProductPrice</p>
+                    <p>$@item.DicountProductPrice</p>
+                     <a asp-action="DeleteFromCart" asp-controller="Home" asp-route-id="@item.ProductId"><img class='cartitems-remove-icon' src="~/Assets/cart_cross_icon.png" alt="" /></a>
+            </div>
+                totalCartAmount += @item.DicountProductPrice;
+            }
+            <hr />       
+        </div>
+
+        <div class="cartitems-down">
+            <div class="cartitems-total">
+                <h1>cart Totals</h1>
+                <div>
+                    <div class="cartitems-total-item">
+                        <p>Subtotal</p>
+                        <p>$@totalCartAmount</p>
+                    </div>
+                    <hr />
+                    <div class="cartitems-total-item">
+                        <p>Shipping Fee</p>
+                        <p>Free</p>
+                    </div>
+                    <hr />
+                    <div class="cartitems-total-item">
+                        <h3>Total</h3>
+                        <h3>$@totalCartAmount</h3>
+                    </div>
+                </div>
+                <button>PROCEED TO CHECKOUT</button>
+            </div>
+            <div class="cartitems-promocode">
+                <p>If you have a promo code, Enter it here</p>
+                <div class="cartitems-promobox">
+                    <input type="text" placeholder="promo code" />
+                    <button>Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        toastr.options = {
+            closeButton: true,
+            progressBar: true,
+            positionClass: "toast-top-right"
+        };
+        alert('@TempData["Message"]');
+        toastr.success('Item removed from cart', 'Success');
+
+    </script>
+}

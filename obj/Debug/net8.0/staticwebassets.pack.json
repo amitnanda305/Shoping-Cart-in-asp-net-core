@@ -1,0 +1,1269 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\My_Shopping_Cart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\My_Shopping_Cart.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\6061412.png",
+      "PackagePath": "staticwebassets\\Assets\\6061412.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Badsheet.png",
+      "PackagePath": "staticwebassets\\Assets\\Badsheet.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 224006.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 224006.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 224450.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 224450.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 224615.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 224615.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 224723.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 224723.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 224814.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 224814.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 224943.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 224943.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 225038.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 225038.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 225235.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 225235.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 225534.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 225534.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 225659.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 225659.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 230028.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 230028.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 230342.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 230342.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 230503.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 230503.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 232611.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 232611.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 232738.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 232738.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 233024.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 233024.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\Screenshot 2024-01-28 233302.png",
+      "PackagePath": "staticwebassets\\Assets\\Screenshot 2024-01-28 233302.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\about.png",
+      "PackagePath": "staticwebassets\\Assets\\about.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\arrow.png",
+      "PackagePath": "staticwebassets\\Assets\\arrow.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\banner_kids.png",
+      "PackagePath": "staticwebassets\\Assets\\banner_kids.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\banner_mens.png",
+      "PackagePath": "staticwebassets\\Assets\\banner_mens.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\banner_women.png",
+      "PackagePath": "staticwebassets\\Assets\\banner_women.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\breadcrum_arrow.png",
+      "PackagePath": "staticwebassets\\Assets\\breadcrum_arrow.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\cart_cross_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\cart_cross_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\cart_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\cart_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\cart_product_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\cart_product_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\dropdown_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\dropdown_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\exclusive_image.png",
+      "PackagePath": "staticwebassets\\Assets\\exclusive_image.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\green grass.png",
+      "PackagePath": "staticwebassets\\Assets\\green grass.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\hand_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\hand_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\hero_image.png",
+      "PackagePath": "staticwebassets\\Assets\\hero_image.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\instagram_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\instagram_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\logo.png",
+      "PackagePath": "staticwebassets\\Assets\\logo.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\logo_big.png",
+      "PackagePath": "staticwebassets\\Assets\\logo_big.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\macbook air.png",
+      "PackagePath": "staticwebassets\\Assets\\macbook air.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\nicon camera.png",
+      "PackagePath": "staticwebassets\\Assets\\nicon camera.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\off roading shoes.png",
+      "PackagePath": "staticwebassets\\Assets\\off roading shoes.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\p1_product.png",
+      "PackagePath": "staticwebassets\\Assets\\p1_product.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\p1_product_i1.png",
+      "PackagePath": "staticwebassets\\Assets\\p1_product_i1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\p1_product_i2.png",
+      "PackagePath": "staticwebassets\\Assets\\p1_product_i2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\p1_product_i3.png",
+      "PackagePath": "staticwebassets\\Assets\\p1_product_i3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\p1_product_i4.png",
+      "PackagePath": "staticwebassets\\Assets\\p1_product_i4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\pintester_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\pintester_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_1.png",
+      "PackagePath": "staticwebassets\\Assets\\product_1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_10.png",
+      "PackagePath": "staticwebassets\\Assets\\product_10.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_11.png",
+      "PackagePath": "staticwebassets\\Assets\\product_11.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_12.png",
+      "PackagePath": "staticwebassets\\Assets\\product_12.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_13.png",
+      "PackagePath": "staticwebassets\\Assets\\product_13.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_14.png",
+      "PackagePath": "staticwebassets\\Assets\\product_14.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_15.png",
+      "PackagePath": "staticwebassets\\Assets\\product_15.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_16.png",
+      "PackagePath": "staticwebassets\\Assets\\product_16.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_17.png",
+      "PackagePath": "staticwebassets\\Assets\\product_17.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_18.png",
+      "PackagePath": "staticwebassets\\Assets\\product_18.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_19.png",
+      "PackagePath": "staticwebassets\\Assets\\product_19.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_2.png",
+      "PackagePath": "staticwebassets\\Assets\\product_2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_20.png",
+      "PackagePath": "staticwebassets\\Assets\\product_20.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_21.png",
+      "PackagePath": "staticwebassets\\Assets\\product_21.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_22.png",
+      "PackagePath": "staticwebassets\\Assets\\product_22.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_23.png",
+      "PackagePath": "staticwebassets\\Assets\\product_23.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_24.png",
+      "PackagePath": "staticwebassets\\Assets\\product_24.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_25.png",
+      "PackagePath": "staticwebassets\\Assets\\product_25.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_26.png",
+      "PackagePath": "staticwebassets\\Assets\\product_26.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_27.png",
+      "PackagePath": "staticwebassets\\Assets\\product_27.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_28.png",
+      "PackagePath": "staticwebassets\\Assets\\product_28.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_29.png",
+      "PackagePath": "staticwebassets\\Assets\\product_29.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_3.png",
+      "PackagePath": "staticwebassets\\Assets\\product_3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_30.png",
+      "PackagePath": "staticwebassets\\Assets\\product_30.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_31.png",
+      "PackagePath": "staticwebassets\\Assets\\product_31.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_32.png",
+      "PackagePath": "staticwebassets\\Assets\\product_32.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_33.png",
+      "PackagePath": "staticwebassets\\Assets\\product_33.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_34.png",
+      "PackagePath": "staticwebassets\\Assets\\product_34.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_35.png",
+      "PackagePath": "staticwebassets\\Assets\\product_35.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_36.png",
+      "PackagePath": "staticwebassets\\Assets\\product_36.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_4.png",
+      "PackagePath": "staticwebassets\\Assets\\product_4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_5 copy.png",
+      "PackagePath": "staticwebassets\\Assets\\product_5 copy.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_5.png",
+      "PackagePath": "staticwebassets\\Assets\\product_5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_6.png",
+      "PackagePath": "staticwebassets\\Assets\\product_6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_7.png",
+      "PackagePath": "staticwebassets\\Assets\\product_7.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_8.png",
+      "PackagePath": "staticwebassets\\Assets\\product_8.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\product_9.png",
+      "PackagePath": "staticwebassets\\Assets\\product_9.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\red_shirt.png",
+      "PackagePath": "staticwebassets\\Assets\\red_shirt.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\shoes for man.png",
+      "PackagePath": "staticwebassets\\Assets\\shoes for man.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\shoping cart.png",
+      "PackagePath": "staticwebassets\\Assets\\shoping cart.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\star_dull_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\star_dull_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\star_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\star_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\Assets\\whatsapp_icon.png",
+      "PackagePath": "staticwebassets\\Assets\\whatsapp_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\NewFolder\\6061412.png",
+      "PackagePath": "staticwebassets\\NewFolder\\6061412.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\NewFolder\\cart_icon.png",
+      "PackagePath": "staticwebassets\\NewFolder\\cart_icon.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\NewFolder\\logo.png",
+      "PackagePath": "staticwebassets\\NewFolder\\logo.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\AddItem.css",
+      "PackagePath": "staticwebassets\\css\\AddItem.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\Details.css",
+      "PackagePath": "staticwebassets\\css\\Details.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\aboutUs.css",
+      "PackagePath": "staticwebassets\\css\\aboutUs.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\contactUs.css",
+      "PackagePath": "staticwebassets\\css\\contactUs.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\5.png",
+      "PackagePath": "staticwebassets\\image\\5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Badsheet.png",
+      "PackagePath": "staticwebassets\\image\\Badsheet.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 224006.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 224006.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 224450.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 224450.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 224615.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 224615.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 224723.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 224723.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 224814.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 224814.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 224943.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 224943.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 225038.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 225038.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 225151.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 225151.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 225235.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 225235.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 225534.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 225534.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 225659.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 225659.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 225859.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 225859.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 230028.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 230028.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 230342.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 230342.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 230503.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 230503.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 232611.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 232611.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 232738.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 232738.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 233024.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 233024.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\Screenshot 2024-01-28 233302.png",
+      "PackagePath": "staticwebassets\\image\\Screenshot 2024-01-28 233302.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\account.jpeg",
+      "PackagePath": "staticwebassets\\image\\account.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b1.jpg",
+      "PackagePath": "staticwebassets\\image\\b1.jpg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b10.png",
+      "PackagePath": "staticwebassets\\image\\b10.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b11.png",
+      "PackagePath": "staticwebassets\\image\\b11.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b2.png",
+      "PackagePath": "staticwebassets\\image\\b2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b3.png",
+      "PackagePath": "staticwebassets\\image\\b3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b4.png",
+      "PackagePath": "staticwebassets\\image\\b4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b5.png",
+      "PackagePath": "staticwebassets\\image\\b5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b6.png",
+      "PackagePath": "staticwebassets\\image\\b6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b7.png",
+      "PackagePath": "staticwebassets\\image\\b7.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b8.png",
+      "PackagePath": "staticwebassets\\image\\b8.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\b9.png",
+      "PackagePath": "staticwebassets\\image\\b9.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\c1.png",
+      "PackagePath": "staticwebassets\\image\\c1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\cart.jpeg",
+      "PackagePath": "staticwebassets\\image\\cart.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\cleaning logo.jpg",
+      "PackagePath": "staticwebassets\\image\\cleaning logo.jpg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\cleaning_logo-removebg-preview-removebg-preview.png",
+      "PackagePath": "staticwebassets\\image\\cleaning_logo-removebg-preview-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\cleaning_logo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\image\\cleaning_logo-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d1.png",
+      "PackagePath": "staticwebassets\\image\\d1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d10.png",
+      "PackagePath": "staticwebassets\\image\\d10.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d11.png",
+      "PackagePath": "staticwebassets\\image\\d11.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d2.png",
+      "PackagePath": "staticwebassets\\image\\d2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d3.png",
+      "PackagePath": "staticwebassets\\image\\d3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d4.png",
+      "PackagePath": "staticwebassets\\image\\d4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d5.png",
+      "PackagePath": "staticwebassets\\image\\d5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d6.png",
+      "PackagePath": "staticwebassets\\image\\d6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d7.png",
+      "PackagePath": "staticwebassets\\image\\d7.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d8.png",
+      "PackagePath": "staticwebassets\\image\\d8.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\d9.png",
+      "PackagePath": "staticwebassets\\image\\d9.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e1.png",
+      "PackagePath": "staticwebassets\\image\\e1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e2.png",
+      "PackagePath": "staticwebassets\\image\\e2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e3.png",
+      "PackagePath": "staticwebassets\\image\\e3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e4.png",
+      "PackagePath": "staticwebassets\\image\\e4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e5.png",
+      "PackagePath": "staticwebassets\\image\\e5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e6.png",
+      "PackagePath": "staticwebassets\\image\\e6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e7.png",
+      "PackagePath": "staticwebassets\\image\\e7.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e8.png",
+      "PackagePath": "staticwebassets\\image\\e8.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\e9.png",
+      "PackagePath": "staticwebassets\\image\\e9.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\ele-removebg-preview.png",
+      "PackagePath": "staticwebassets\\image\\ele-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\elec.png",
+      "PackagePath": "staticwebassets\\image\\elec.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\electronics_logo.png",
+      "PackagePath": "staticwebassets\\image\\electronics_logo.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\empty.gif",
+      "PackagePath": "staticwebassets\\image\\empty.gif"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\fashion logo.jpg",
+      "PackagePath": "staticwebassets\\image\\fashion logo.jpg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\fh1.png",
+      "PackagePath": "staticwebassets\\image\\fh1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\fh2.jpeg",
+      "PackagePath": "staticwebassets\\image\\fh2.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\fh3.jpeg",
+      "PackagePath": "staticwebassets\\image\\fh3.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\fh4.jpeg",
+      "PackagePath": "staticwebassets\\image\\fh4.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\fh5.jpeg",
+      "PackagePath": "staticwebassets\\image\\fh5.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\fruniture-removebg-preview.png",
+      "PackagePath": "staticwebassets\\image\\fruniture-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\fruniture.jpg",
+      "PackagePath": "staticwebassets\\image\\fruniture.jpg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g1.png",
+      "PackagePath": "staticwebassets\\image\\g1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g10.png",
+      "PackagePath": "staticwebassets\\image\\g10.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g11.png",
+      "PackagePath": "staticwebassets\\image\\g11.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g2.png",
+      "PackagePath": "staticwebassets\\image\\g2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g3.png",
+      "PackagePath": "staticwebassets\\image\\g3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g4.png",
+      "PackagePath": "staticwebassets\\image\\g4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g5.png",
+      "PackagePath": "staticwebassets\\image\\g5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g6.png",
+      "PackagePath": "staticwebassets\\image\\g6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g7.png",
+      "PackagePath": "staticwebassets\\image\\g7.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g8.png",
+      "PackagePath": "staticwebassets\\image\\g8.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\g9.png",
+      "PackagePath": "staticwebassets\\image\\g9.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\green grass.png",
+      "PackagePath": "staticwebassets\\image\\green grass.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\h5.png",
+      "PackagePath": "staticwebassets\\image\\h5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\h6.png",
+      "PackagePath": "staticwebassets\\image\\h6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\like.png",
+      "PackagePath": "staticwebassets\\image\\like.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\login-animation.gif",
+      "PackagePath": "staticwebassets\\image\\login-animation.gif"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\mobile logo.png",
+      "PackagePath": "staticwebassets\\image\\mobile logo.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n1.jpeg",
+      "PackagePath": "staticwebassets\\image\\n1.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n1.png",
+      "PackagePath": "staticwebassets\\image\\n1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n10.png",
+      "PackagePath": "staticwebassets\\image\\n10.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n11.png",
+      "PackagePath": "staticwebassets\\image\\n11.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n2.jpeg",
+      "PackagePath": "staticwebassets\\image\\n2.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n2.png",
+      "PackagePath": "staticwebassets\\image\\n2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n3.png",
+      "PackagePath": "staticwebassets\\image\\n3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n4.png",
+      "PackagePath": "staticwebassets\\image\\n4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n5.png",
+      "PackagePath": "staticwebassets\\image\\n5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n6.png",
+      "PackagePath": "staticwebassets\\image\\n6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n7.png",
+      "PackagePath": "staticwebassets\\image\\n7.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n8.png",
+      "PackagePath": "staticwebassets\\image\\n8.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\n9.png",
+      "PackagePath": "staticwebassets\\image\\n9.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\nicon camera.png",
+      "PackagePath": "staticwebassets\\image\\nicon camera.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\off roading shoes.png",
+      "PackagePath": "staticwebassets\\image\\off roading shoes.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r1.png",
+      "PackagePath": "staticwebassets\\image\\r1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r2.png",
+      "PackagePath": "staticwebassets\\image\\r2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r3.png",
+      "PackagePath": "staticwebassets\\image\\r3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r4.png",
+      "PackagePath": "staticwebassets\\image\\r4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r5.png",
+      "PackagePath": "staticwebassets\\image\\r5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r6.png",
+      "PackagePath": "staticwebassets\\image\\r6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r7.png",
+      "PackagePath": "staticwebassets\\image\\r7.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r8.png",
+      "PackagePath": "staticwebassets\\image\\r8.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\r9.png",
+      "PackagePath": "staticwebassets\\image\\r9.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s1.png",
+      "PackagePath": "staticwebassets\\image\\s1.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s10.png",
+      "PackagePath": "staticwebassets\\image\\s10.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s11.png",
+      "PackagePath": "staticwebassets\\image\\s11.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s2.png",
+      "PackagePath": "staticwebassets\\image\\s2.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s3.png",
+      "PackagePath": "staticwebassets\\image\\s3.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s4.png",
+      "PackagePath": "staticwebassets\\image\\s4.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s5.png",
+      "PackagePath": "staticwebassets\\image\\s5.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s6.png",
+      "PackagePath": "staticwebassets\\image\\s6.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s7.png",
+      "PackagePath": "staticwebassets\\image\\s7.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s8.png",
+      "PackagePath": "staticwebassets\\image\\s8.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\s9.png",
+      "PackagePath": "staticwebassets\\image\\s9.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\shoes for man.png",
+      "PackagePath": "staticwebassets\\image\\shoes for man.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\shoes logo.png",
+      "PackagePath": "staticwebassets\\image\\shoes logo.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\shoes.png",
+      "PackagePath": "staticwebassets\\image\\shoes.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\toy.png",
+      "PackagePath": "staticwebassets\\image\\toy.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\tv-removebg-preview.png",
+      "PackagePath": "staticwebassets\\image\\tv-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\tv.jpg",
+      "PackagePath": "staticwebassets\\image\\tv.jpg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_492.png",
+      "PackagePath": "staticwebassets\\image\\v6_492.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_494.png",
+      "PackagePath": "staticwebassets\\image\\v6_494.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_496.png",
+      "PackagePath": "staticwebassets\\image\\v6_496.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_498.png",
+      "PackagePath": "staticwebassets\\image\\v6_498.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_500.png",
+      "PackagePath": "staticwebassets\\image\\v6_500.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_502.png",
+      "PackagePath": "staticwebassets\\image\\v6_502.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_504.png",
+      "PackagePath": "staticwebassets\\image\\v6_504.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_506.png",
+      "PackagePath": "staticwebassets\\image\\v6_506.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_508.png",
+      "PackagePath": "staticwebassets\\image\\v6_508.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_510.png",
+      "PackagePath": "staticwebassets\\image\\v6_510.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_514.png",
+      "PackagePath": "staticwebassets\\image\\v6_514.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_516.png",
+      "PackagePath": "staticwebassets\\image\\v6_516.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_518.png",
+      "PackagePath": "staticwebassets\\image\\v6_518.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_520.png",
+      "PackagePath": "staticwebassets\\image\\v6_520.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_522.png",
+      "PackagePath": "staticwebassets\\image\\v6_522.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_524.png",
+      "PackagePath": "staticwebassets\\image\\v6_524.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_526.png",
+      "PackagePath": "staticwebassets\\image\\v6_526.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_528.png",
+      "PackagePath": "staticwebassets\\image\\v6_528.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_530.png",
+      "PackagePath": "staticwebassets\\image\\v6_530.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_532.png",
+      "PackagePath": "staticwebassets\\image\\v6_532.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_534.png",
+      "PackagePath": "staticwebassets\\image\\v6_534.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\v6_536.png",
+      "PackagePath": "staticwebassets\\image\\v6_536.png"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\image\\wishlist.jpeg",
+      "PackagePath": "staticwebassets\\image\\wishlist.jpeg"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Mycloth_website (2)\\Mycloth_website\\Mycloth_website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.My_Shopping_Cart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.My_Shopping_Cart.props",
+      "PackagePath": "build\\My_Shopping_Cart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.My_Shopping_Cart.props",
+      "PackagePath": "buildMultiTargeting\\My_Shopping_Cart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.My_Shopping_Cart.props",
+      "PackagePath": "buildTransitive\\My_Shopping_Cart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

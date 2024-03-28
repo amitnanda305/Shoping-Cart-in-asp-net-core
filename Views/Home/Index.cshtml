@@ -1,0 +1,573 @@
+﻿@model Mycloth_website.Models.IndexViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie store</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="/images/movie_filter_FILL0_wght400_GRAD0_opsz48.svg">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap" rel="stylesheet">
+
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f4f6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .cardd-deck {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .cardd {
+            width: calc(20% - 10px); /* Adjust width as needed */
+            margin-bottom: 20px;
+        }
+
+        .cardd-img-top {
+            width: 100%;
+            height: auto;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .card {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+            .card img {
+                max-width: 100%;
+                max-height: 200px; /* Adjust the height as needed */
+                object-fit: cover; /* Ensure the image covers the specified dimensions */
+            }
+
+        .card-title {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .card-text {
+            color: #666;
+            font-size: 16px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px; /* Maintain the padding */
+            background-color: #f44336;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            width: 4cm; /* Set the width to 4 centimeters */
+        }
+
+            .button:hover {
+                background-color: #d32f2f;
+            }
+
+        .product-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .nav-item {
+            margin-right: 2px; /* Adjust this value as needed */
+        }
+
+        .gold-item {
+            text-align: center;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            padding: 10px;
+        }
+
+            .gold-item img {
+                max-width: 100%;
+                height: auto;
+            }
+
+            .gold-item h6 {
+                margin: 10px 0;
+                font-size: 18px;
+            }
+
+        .men-fashion {
+            text-align: center;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            padding: 10px;
+        }
+
+            .men-fashion img {
+                max-width: 100%;
+                height: auto;
+            }
+
+            .men-fashion h6 {
+                margin: 10px 0;
+                font-size: 18px;
+            }
+
+        .price {
+            color: #333;
+            font-size: 16px;
+            margin-bottom: 5px;
+        }
+
+        .add-to-cart {
+            display: block;
+            background-color: #FDC601;
+            color: #000000;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+
+        .add-to-cart:hover {
+            background-color: #020911;
+        }
+    </style>
+</head>
+
+<body style="background-color:aliceblue">
+    <div class="container">
+        <div class="section">
+            <div class="card">
+                <div class="flex items-center gap-3 bg-slate-300 w-36 px-2 rounded-full">
+                    <p class="text-sm font-medium text-slate-900">Bike Delivery <img src="https://cdn-icons-png.flaticon.com/512/2972/2972185.png" width="35px" height="35px" class="h-30"></p>
+
+                </div>
+                <h2 class="card-title">
+                    Best <span class="text-4xl md:text-7xl font-bold py-3">Value</span>
+                </h2>
+                <h2 class="card-title">
+                    Best <span class="text-red-600">Service</span>
+                </h2>
+
+                <p class="card-text">
+                    Instead of going to the local malls for a shopping spree, more and more people are using the variety of online resources to discover the right products for them. From giants like Amazon to small Etsy stores, online shopping is the future of consumerism! If you’re also interested in taking the plunge into the e-commerce world, then an online store would be just the thing. But what if you’re not sure how best to market your products online? In this case, an online store description generator would be a helpful tool.
+                </p>
+                <a href="/menu/65b68f0277f74f58ce78999a" class="button">Order Now</a>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <h2 class="card-title">Mens' Fashion</h2>
+        <ul class="product-list">
+            <li class="men-fashion">
+                <a class="gold-bracelet" href="#">
+                    <img src="/image/Screenshot 2024-01-28 225151.png" alt="Golden Bracelet">
+                </a>
+                <h6>Golden Bracelet</h6>
+                <div class="price">Rs. 30,000</div>
+                <a href="#"><img src="/image/like.png" alt="Like" width="20px" height="20px"></a>
+                <a href="#" class="add-to-cart">Add to Cart</a>
+            </li>
+
+            <li class="men-fashion">
+                <a class="gold-bracelet" href="#">
+                    <img src="/image/Screenshot 2024-01-28 225235.png" alt="Golden Bracelet">
+                </a>
+                <h6>Golden Bracelet</h6>
+                <div class="price">Rs. 30,000</div>
+                <a href="#"><img src="/image/like.png" alt="Like" width="20px" height="20px"></a>
+                <a href="#" class="add-to-cart">Add to Cart</a>
+            </li>
+
+            <li class="men-fashion">
+                <a class="gold-bracelet" href="#">
+                    <img src="/image/Screenshot 2024-01-28 230503.png" alt="Golden Bracelet">
+                </a>
+                <h6>Black Sneaker</h6>
+                <div class="price">Rs. 360</div>
+                <a href="#"><img src="/image/like.png" alt="Like" width="20px" height="20px"></a>
+                <a href="#" class="add-to-cart">Add to Cart</a>
+            </li>
+
+            <li class="men-fashion">
+                <a class="gold-bracelet" href="#">
+                    <img src="/image/Screenshot 2024-01-28 230342.png" alt="Golden Bracelet">
+                </a>
+                <h6>White loffer</h6>
+                <div class="price">Rs. 450</div>
+                <a href="#"><img src="/image/like.png" alt="Like" width="20px" height="20px"></a>
+                <a href="#" class="add-to-cart">Add to Cart</a>
+            </li>
+            <li class="men-fashion">
+                <a class="gold-bracelet" href="#">
+                    <img src="/image/shoes for man.png" alt="Golden Bracelet">
+                </a>
+                <h6>White Sneaker</h6>
+                <div class="price">Rs. 850</div>
+                <a href="#"><img src="/image/like.png" alt="Like" width="20px" height="20px"></a>
+                <a href="#" class="add-to-cart">Add to Cart</a>
+            </li>
+    </div>
+
+    <div class="section">
+        <h2 class="card-title">Your Product</h2>
+    </div>
+
+    <ul class="navbar">
+        <li class="nav-item">
+            <a id="shoes" class="nav-link" href="#">
+                <span><img src="/image/shoes logo.png" alt="Shoes" height="100px" width="100px"><h6>Shoes</h6></span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a id="electronics" class="nav-link" href="#">
+                <span><img src="~/image/ele-removebg-preview.png" alt="Account" height="120px" width="120px"><h6></h6>Electronics</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a id="fruniture" class="nav-link" href="#">
+                <span><img src="~/image/fruniture-removebg-preview.png" alt="Account" height="100px" width="100px"><h6></h6>Home & Fruniture</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a id="cleaning" class="nav-link" href="#">
+                <span><img src="~/image/cleaning_logo-removebg-preview-removebg-preview.png" alt="Account" height="120px" width="120px"><h6></h6>Cleaning & Bath</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a id="tv" class="nav-link" href="#">
+                <span><img src="~/image/tv-removebg-preview.png" alt="Account" height="150px" width="150"><h6></h6>Smat Tv’s</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a id="toys" class="nav-link" href="#">
+                <span><img src="~/image/toy.png" alt="Account" height="100px" width="100px"><h6></h6>Toys</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a id="mobile" class="nav-link" href="#">
+                <span><img src="~/image/mobile logo.png" alt="Account" height="100px" width="100px"><h6></h6>Mobile</span>
+            </a>
+        </li>
+    </ul>
+
+
+    <section class="movies">
+        <div class="gold-item" data-category="men">
+            @foreach (var item in Model.MenItems.Items.Take(6))
+            {
+                <div class='item'>
+                    <a href="@Url.Action("MenDetails", "Home", new { id = item.ProductId })">
+                        <img src="~/Assets/@item.ProductImage" alt="" />
+                    </a>
+                    <p><b>@item.ProductName</b></p>
+                    <p>@item.ProductDescription</p>
+                    <div class="item-prices">
+                        <div class="item-price-new">
+                            $@item.ProductPrice
+                        </div>
+                        <div class="item-price-old">
+                            $@item.DicountProductPrice
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="gold-item" data-category="Women">
+        @foreach (var item in Model.WomenItems.Items.Take(5))
+        {
+            
+            <div class='item'>
+                <a asp-action="WomenDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                    <img src="~/Assets/@item.ProductImage" alt="" />
+            </a>
+                <p><b>@item.ProductName</b></p>
+            <p>@item.ProductDescription</p>
+            <div class="item-prices">
+                <div class="item-price-new">
+                            $@item.ProductPrice
+                </div>
+                <div class="item-price-old">
+                            $@item.DicountProductPrice
+                </div>
+            </div>
+        </div>
+        
+        }
+        </div>
+
+
+        <div class="gold-item" data-category="shoes">
+        @foreach (var item in Model.ShoesItems.Items.Take(5))
+        {
+
+            <div class='item'>
+                <a asp-action="ShoesDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                    <img src="~/Assets/@item.ProductImage" alt="" />
+                </a>
+                <p><b>@item.ProductName</b></p>
+                <p>@item.ProductDescription</p>
+                <div class="item-prices">
+                    <div class="item-price-new">
+                        $@item.ProductPrice
+                    </div>
+                    <div class="item-price-old">
+                        $@item.DicountProductPrice
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+
+        <div class="gold-item" data-category="electronics">
+            @foreach (var item in Model.ElectronicsItems.Items.Take(5))
+            {
+
+                <div class='item'>
+                    <a asp-action="ElectronicsDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                        <img src="~/Assets/@item.ProductImage" alt="" />
+                    </a>
+                    <p><b>@item.ProductName</b></p>
+                    <p>@item.ProductDescription</p>
+                    <div class="item-prices">
+                        <div class="item-price-new">
+                            $@item.ProductPrice
+                        </div>
+                        <div class="item-price-old">
+                            $@item.DicountProductPrice
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+      
+        <div class="gold-item" data-category="fruniture">
+            @foreach (var item in Model.FrunitureItems.Items.Take(5))
+        {
+
+            <div class='item'>
+                    <a asp-action="FrunitureDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                    <img src="~/Assets/@item.ProductImage" alt="" />
+                </a>
+                <p><b>@item.ProductName</b></p>
+                <p>@item.ProductDescription</p>
+                <div class="item-prices">
+                    <div class="item-price-new">
+                        $@item.ProductPrice
+                    </div>
+                    <div class="item-price-old">
+                        $@item.DicountProductPrice
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+        <div class="gold-item" data-category="cleaning">
+            @foreach (var item in Model.CleaningItems.Items.Take(5))
+            {
+
+                <div class='item'>
+                    <a asp-action="CleaningDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                        <img src="~/Assets/@item.ProductImage" alt="" />
+                    </a>
+                    <p><b>@item.ProductName</b></p>
+                    <p>@item.ProductDescription</p>
+                    <div class="item-prices">
+                        <div class="item-price-new">
+                            $@item.ProductPrice
+                        </div>
+                        <div class="item-price-old">
+                            $@item.DicountProductPrice
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+         <div class="gold-item" data-category="tv">
+        @foreach (var item in Model.tvItems.Items.Take(5))
+        {
+
+            <div class='item'>
+                <a asp-action="tvDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                    <img src="~/Assets/@item.ProductImage" alt="" />
+                </a>
+                <p><b>@item.ProductName</b></p>
+                <p>@item.ProductDescription</p>
+                <div class="item-prices">
+                    <div class="item-price-new">
+                        $@item.ProductPrice
+                    </div>
+                    <div class="item-price-old">
+                        $@item.DicountProductPrice
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+
+        <div class="gold-item" data-category="toys">
+            @foreach (var item in Model.ToysItems.Items.Take(5))
+        {
+
+            <div class='item'>
+                    <a asp-action="ToysDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                    <img src="~/Assets/@item.ProductImage" alt="" />
+                </a>
+                <p><b>@item.ProductName</b></p>
+                <p>@item.ProductDescription</p>
+                <div class="item-prices">
+                    <div class="item-price-new">
+                        $@item.ProductPrice
+                    </div>
+                    <div class="item-price-old">
+                        $@item.DicountProductPrice
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+
+        <div class="gold-item" data-category="mobile">
+            @foreach (var item in Model.MobileItems.Items.Take(5))
+            {
+
+                <div class='item'>
+                    <a asp-action="MobileDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                        <img src="~/Assets/@item.ProductImage" alt="" />
+                    </a>
+                    <p><b>@item.ProductName</b></p>
+                    <p>@item.ProductDescription</p>
+                    <div class="item-prices">
+                        <div class="item-price-new">
+                            $@item.ProductPrice
+                        </div>
+                        <div class="item-price-old">
+                            $@item.DicountProductPrice
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+
+        @* @foreach (var item in Model.KidItems.Items.Take(5))
+        {
+            <div class='item'>
+                <a asp-action="KidDetails" asp-controller="Home" asp-route-id="@item.ProductId">
+                    <img src="~/Assets/@item.ProductImage" alt="" />
+                </a>
+                <p><b>@item.ProductName</b></p>
+                <p>@item.ProductDescription</p>
+                <div class="item-prices">
+                    <div class="item-price-new">
+                        $@item.ProductPrice
+                    </div>
+                    <div class="item-price-old">
+                        $@item.DicountProductPrice
+                    </div>
+                </div>
+            </div>
+        } *@
+    </section>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Select all product items
+            const products = document.querySelectorAll('.gold-item');
+
+            // Select the navigation links
+            const shoesLink = document.getElementById('shoes');
+            const electronicsLink = document.getElementById('electronics');
+            const frunitureLink = document.getElementById('fruniture');
+            const cleaningLink = document.getElementById('cleaning');
+            const tvLink = document.getElementById('tv');
+            const toysLink = document.getElementById('toys');
+            const mobileLink = document.getElementById('mobile');
+
+            // Add event listeners to the navigation links
+            shoesLink.addEventListener('click', function () {
+                filterProducts('shoes');
+            });
+
+            electronicsLink.addEventListener('click', function () {
+                filterProducts('electronics');
+            });
+
+            frunitureLink.addEventListener('click', function () {
+                filterProducts('fruniture');
+            });
+
+            cleaningLink.addEventListener('click', function () {
+                filterProducts('cleaning');
+            });
+
+            tvLink.addEventListener('click', function () {
+                filterProducts('tv');
+            });
+
+            toysLink.addEventListener('click', function () {
+                filterProducts('toys');
+            });
+
+            mobileLink.addEventListener('click', function () {
+                filterProducts('mobile');
+            });
+
+            function filterProducts(category) {
+                // Iterate through each product item
+                products.forEach(product => {
+                    // Check if the product's category matches the selected category
+                    if (product.dataset.category === category) {
+                        // Show the product
+                        product.style.display = 'block';
+                    } else {
+                        // Hide the product
+                        product.style.display = 'none';
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

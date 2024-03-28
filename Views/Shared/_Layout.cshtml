@@ -1,0 +1,75 @@
+﻿@{
+    var totalCartAmount = TempData["totalItems"] != null ? TempData["totalItems"].ToString() : "0";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Mycloth_website</title>
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Mycloth_website.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="nav-logo">
+                <img src="~/Assets/shoping cart.png" width="40px" height="40px" alt="" />
+                <h3>Shopping Cart App</h3>
+            </div>
+            <ul class="nav-menu">
+                <li>
+                    <a style="text-decoration:none" class="text-dark" asp-controller="Home" asp-action="Index">Home<hr/></a>
+                </li>
+
+                <li>
+                    <a style="text-decoration:none" class="text-dark" asp-controller="Home" asp-action="About">About<hr /></a>
+                </li>
+                <li>
+                    <a style="text-decoration:none" class="text-dark" asp-controller="Home" asp-action="Contact">Contact<hr /></a>
+                </li>
+            </ul>
+            <div class="nav-login-cart">
+                
+                <a style="text-decoration:none" class="navbar-brand" asp-controller="Home" asp-action="Cart"><img src="/Assets/cart_icon.png"></a>
+                <div class="nav-cart-count">@totalCartAmount</div>
+                <partial name="_LoginPartial.cshtml" />
+                
+            </div>
+        </nav>
+    </header>
+    <div>
+        <main role="main" class="align-content-center">
+            @RenderBody()
+        </main>
+    </div>
+    <br />
+    <footer class="footer text-muted align-content-center">
+        <div class='footer'>
+            <div class="footer-logo">
+                <img src="~/Assets/shoping cart.png" width="40px" height="40px" alt="" />
+                <p>Shopping Cart App</p>
+            </div>
+         
+            <div class="footer-copyright">
+                <hr />
+                <p>Copyright 2024 - All Right Reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        function showSuccessToast(message) {
+            toastr.success(message, 'Success');
+        }
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

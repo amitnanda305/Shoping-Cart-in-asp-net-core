@@ -1,0 +1,35 @@
+﻿.about-main {
+    margin: 100px 100px;
+}
+
+    .about-main h2 {
+        font-size: 40px;
+        margin-left: 200px;
+        margin-top: -110px;
+    }
+
+    .about-main p {
+        font-size: 20px;
+        text-align: left;
+        margin-top: 40px;
+        margin-left: 300px;
+    }
+
+.about-content {
+    display: flex;
+    align-items: center;
+}
+
+.about-image {
+    flex: 1;
+}
+
+    .about-image img {
+        width: 150%;
+        height: 500px;
+    }
+
+.about-text {
+    flex: 2;
+    padding: 0 20px;
+}

@@ -1,0 +1,51 @@
+﻿.contactus-main {
+    width: 100%;
+    height: 90vh;
+    background: #FC94AF;
+    padding-top: 100px;
+}
+
+.contactus-container {
+    width: 580px;
+    height: 600px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+}
+
+    .contactus-container h1 {
+        margin: 20px 0px;
+    }
+
+    .contactus-container label {
+        margin-bottom: -20px;
+    }
+
+.contactus-fields {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 30px;
+}
+
+    .contactus-fields input {
+        height: 58px;
+        width: 96%;
+        padding-left: 20px;
+        border: 1px solid #c9c9c9;
+        outline: none;
+        color: #5c5c5c;
+        font-size: 18px;
+    }
+
+.contactus-container button {
+    width: 444px;
+    height: 72px;
+    color: white;
+    background: #ff4141;
+    margin-top: 30px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+}

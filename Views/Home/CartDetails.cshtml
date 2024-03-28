@@ -1,0 +1,82 @@
+﻿@model Mycloth_website.Models.Cart
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie store</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <style>
+    </style>
+</head>
+
+<body style="background-color:aliceblue">
+    <div class='productdisplay'>
+        <div class="productdisplay-left">
+            <div class="productdisplay-img-list">
+                <img src="~/Assets/@Model.ProductImage" alt="" />
+                <img src="~/Assets/@Model.ProductImage" alt="" />
+                <img src="~/Assets/@Model.ProductImage" alt="" />
+                <img src="~/Assets/@Model.ProductImage" alt="" />
+            </div>
+            <div class="productdisplay-img">
+                <img class='productdisplay-main-img' src="~/Assets/@Model.ProductImage" alt="" />
+            </div>
+        </div>
+        <div class="productdisplay-right">
+            <h1>@Model.ProductName</h1>
+            <div class="productdisplay-right-stars">
+                <img src="~/Assets/star_icon.png" alt="" />
+                <img src="~/Assets/star_icon.png" alt="" />
+                <img src="~/Assets/star_icon.png" alt="" />
+                <img src="~/Assets/star_icon.png" alt="" />
+                <img src="~/Assets/star_dull_icon.png" alt="" />
+                <p>(122)</p>
+            </div>
+            <div class="productdisplay-right-prices">
+                <div class="productdisplay-right-price-old">@Model.ProductPrice</div>
+                <div class="productdisplay-right-price-new">@Model.DicountProductPrice</div>
+            </div>
+            <div class="productdisplay-right-description">
+                A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.
+            </div>
+            <div class="productdisplay-right-size">
+                <h1>Select Size</h1>
+                <div class="productdisplay-right-sizes">
+                    <div>S</div>
+                    <div>M</div>
+                    <div>L</div>
+                    <div>XL</div>
+                    <div>XXL</div>
+                </div>
+            </div>
+            <button class="btn btn-link text-white">
+                <a asp-action="DeleteFromCart" asp-controller="Home" asp-route-id="@Model.ProductId" class="text-white" style="text-decoration: none;">ADD TO CART</a>
+            </button>
+            <p class='productdisplay-right-category'><span>Category :</span>Women, T-Shirt, Crop Top</p>
+            <p class='productdisplay-right-category'><span>Tags :</span>Modern, Latest</p>
+        </div>
+    </div>
+    <div class='descriptionbox'>
+        <div class="descriptionbox-navigator">
+            <div class="descriptionbox-nav-box">Description</div>
+            <div class="descriptionbox-nav-box">Reviews (122)</div>
+        </div>
+        <div class="descriptionbox-description">
+            <p>
+                An e-commerce website is an online platform that facilitates the buying and selling of products or services over the internet.It serves as a virtual marketplace where businesses and individuals can showcase their products, interact with
+                customers,and conduct transactions without the need for a physical presence.E-commerce websites have gained immense popularity due to their convenience,accessibillity,and the global reach they offer.
+                E-commerce websites typically display products or services along with detailed descriptions,images,prices,and any available variations(e.g.,sizes,colors).Each product usually has its own dedicated page with relevant information.
+            </p>
+        </div>
+    </div>
+
+</body>
+</html>
+
+

@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "ContactUs";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie store</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/contactUs.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="/images/movie_filter_FILL0_wght400_GRAD0_opsz48.svg">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+</head>
+
+<body>
+
+
+
+    <div class='contactus-main'>
+        <div class="contactus-container">
+            <h1>Contact Us</h1>
+            <div class="contactus-fields">
+                <label htmlFor="email">Your Email Address</label>
+                <input type="email" id="email" name="email" required />
+
+                <label htmlFor="text">Subject</label>
+                <input type="text" id="subject" name="email" required />
+
+                <label htmlFor="text">How can we help ?</label>
+                <input type="text" id="help" name="email" required />
+            </div>
+            <button>SEND</button>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
+
